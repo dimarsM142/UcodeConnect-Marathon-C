@@ -1,11 +1,11 @@
 <head>
 
-<h1>This is my first </h1>
-<h3>At this link is UcodeConnect-Marathon-C. The table shows the scores for each of the tasks of the first marathon. During this time, thanks to Ucode-Connect, the understanding of the console in MACOS was studied, the basic laws of the C language were studied and many other useful features.</h3>
+<h1 align="center">UcodeConnect-Marathon-C</h1>
+<h5>At this link is UcodeConnect-Marathon-C. The table shows the scores for each of the tasks of the first marathon. During this time, thanks to Ucode-Connect, I learned the basic concepts of the macOS system and how to interact with the console of this OS, I gained knowledge about development in the C language and many other useful features.</h3>
 </head>
 
 <body>
-    <table width="100%" border="0" cellpadding="4" align="left">  
+    <table width="100%" border="0" cellpadding="4" align="center">  
         <tr>
             <th>Name</th>
             <th>Date</th>
