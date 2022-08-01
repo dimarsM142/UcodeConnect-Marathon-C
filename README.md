@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <th>Sprint03</th>
-            <th>03.03.2021</td>
+            <td>03.03.2021</td>
             <td>100</td>
         </tr>
         <tr>
@@ -68,6 +68,36 @@
         </tr>
         <tr>
             <th>Sprint11</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Checkpoint00</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Checkpoint01</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Checkpoint02</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Race00</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Race01</th>
+            <td>03.03.2021</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Race02</th>
             <td>03.03.2021</td>
             <td>100</td>
         </tr>
