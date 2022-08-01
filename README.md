@@ -1,6 +1,7 @@
 <head>
 
-<h1>This is my first</h1>
+<h1>This is my first </h1>
+<h3>At this link is UcodeConnect-Marathon-C. The table shows the scores for each of the tasks of the first marathon. During this time, thanks to Ucode-Connect, the understanding of the console in MACOS was studied, the basic laws of the C language were studied and many other useful features.</h3>
 </head>
 
 <body>
