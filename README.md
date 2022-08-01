@@ -10,9 +10,9 @@
             <th>Grade</th>
         </tr>
         <tr>
-            <td>Sprint00</td>
-            <td>03.03.2021</td>
-            <td>100</td>
+            <th>Sprint00</th>
+            <th>03.03.2021</th>
+            <th>100</th>
         </tr>
         <tr>
             <td>Sprint01</td>
