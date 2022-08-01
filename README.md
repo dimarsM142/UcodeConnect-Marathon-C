@@ -1,5 +1,6 @@
 <head>
-<p>This is my first</p>
+
+<h1>This is my first</h1>
 </head>
 
 <body>
