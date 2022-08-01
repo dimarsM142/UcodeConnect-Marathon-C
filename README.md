@@ -4,7 +4,7 @@
 
 <body>
     <h4>At this link is UcodeConnect-Marathon-C. The table shows the scores for each of the tasks of the first marathon. During this time, thanks to Ucode-Connect, I learned the basic concepts of the macOS system and how to interact with the console of this OS, I gained knowledge about development in the C language and many other useful features.</h4>
-    <h3>Grades:</h3>
+    <h3 align='center'>Grades:</h3>
     <table width="100%" border="0" cellpadding="4" align="center">  
         <tr>
             <th>Name</th>
